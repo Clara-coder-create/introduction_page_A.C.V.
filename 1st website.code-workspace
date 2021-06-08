@@ -1,0 +1,21 @@
+{
+  "folders" : [
+	{
+		"name": "About",
+		"uri": "vsls:/"
+	}
+],
+  "settings" : {
+    "vsliveshare.join.reload.workspaceFolder" : "\/var\/folders\/rk\/tsvg89cs7b32jkx8wv1qwz5m0000gn\/T\/vsliveshare\/tmp-FA4116CEA7412C6C57DAEA85AB5AD2D3F7C9",
+    "files.hotExit" : "off",
+    "vsliveshare.join.reload.workspaceId" : "FA4116CEA7412C6C57DAEA85AB5AD2D3F7C9",
+    "vsliveshare.join.correlationId": "INVALID",
+    "extensions.ignoreRecommendations": true,
+    "files.trimTrailingWhitespace": false,
+    "files.insertFinalNewline": false,
+    "files.trimFinalNewlines": false,
+    "typescript.tsc.autoDetect": "off",
+    "debug.allowBreakpointsEverywhere": true,
+    "html.autoClosingTags": false
+  }
+}
